@@ -150,7 +150,7 @@ Store the following in GitHub Secrets:
 
 ---
 
-## 📌 Notes
+## 📌 Note
 
 - MongoDB runs on a private EC2 instance
 - Bastion host is used for secure SSH tunneling
