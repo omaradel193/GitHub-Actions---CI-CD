@@ -10,3 +10,4 @@ sudo yum install -y ansible
 # Confirm installation
 ansible --version
 
+ansible-galaxy collection install community.docker
